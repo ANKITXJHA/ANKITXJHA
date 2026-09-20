@@ -1,7 +1,6 @@
 ### Hi there, I'm Ankit 👋
 
-🎓 3rd-year B.Tech CSE (AI & ML) student at GNIT, Greater Noida | AKTU
-🚀 GeeksforGeeks Campus Mantri (Level 2)
+🎓 3rd-year B.Tech CSE (AI & ML) student at Greater Noida college 
 🔍 Actively looking for AI/ML internship opportunities
 
 ---
@@ -32,7 +31,7 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitjha21ya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitjha21/)
 <!--
 **ANKITXJHA/ANKITXJHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
