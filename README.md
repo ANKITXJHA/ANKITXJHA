@@ -2,7 +2,7 @@
 
 Third-year B.Tech Computer Science (AI & ML) student at Greater Noida College (AKTU), graduating in 2028. I build practical GenAI projects: RAG apps, tool-calling agents and small ML apps. **Open to AI/ML internships.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitjha21ya-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitjha21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitjha21-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitjha21)
 [![GitHub](https://img.shields.io/badge/GitHub-ANKITXJHA-181717?logo=github&logoColor=white)](https://github.com/ANKITXJHA)
 
 ## 🚀 Featured projects
